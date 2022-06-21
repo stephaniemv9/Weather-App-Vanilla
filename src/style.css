@@ -3,3 +3,7 @@ h2 {
   color: red !important;
   text-align: center;
 }
+.weather-app {
+  max-width: 600px;
+  margin: 0 auto;
+}
