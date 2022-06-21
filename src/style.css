@@ -1,3 +1,6 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
 .weather-app {
   max-width: 600px;
   margin: 30px auto;
@@ -6,11 +9,8 @@
   border-radius: 5px;
 }
 h1 {
-  color: rgb(32, 33, 36);
-  display: inline-block;
-  font-family: Roboto, arial, sans-serif;
-  font-size: 16px;
-  font-weight: 400;
-  height: 60px;
-  vertical-align: top;
+  color: #878787;
+  font-size: 24px;
+  font-weight: 100;
+  line-height: 28px;
 }
