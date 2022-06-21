@@ -5,3 +5,13 @@
   border: 1px solid #dadde1;
   border-radius: 5px;
 }
+h1 {
+  color: rgb(32, 33, 36);
+  display: inline-block;
+  font-family: Roboto, arial, sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  height: 60px;
+  vertical-align: top;
+  width: 326px;
+}
