@@ -48,7 +48,7 @@ li:first-letter {
 .form-control {
   border-radius: 20px;
   background-color: red;
-color: white;
+  color: white;
 }
 
 .overview {
@@ -63,7 +63,7 @@ color: white;
 }
 
 .weather-temperature strong {
-  color: white);
+  color: white;
   font-size: 64px;
   font-weight: 400;
   line-height: 1;
